@@ -8,6 +8,7 @@ step 1 : clone all files in your PC
 Step 2: open "Resume-Builder-V.1" folder in VS Code (or any other code editor)
 
 step 3: open terminal in VS Code 
+
         ***Front-end
         --> cd client                            //{directory for front end}
         --> npm i                                //{to install all node modules}
@@ -22,8 +23,9 @@ Open another Terminal (Don't stop frontend server)
 
 All steps done ! Now you can use Resume Builder in your PC .
 
-**Fill the FORM , ---> Submit ---> and wait , your Resume will be downloaded soon 
-**Make sure to give a Star 
+step 4 : Fill the FORM , ---> Submit ---> and wait , your Resume will be downloaded soon 
+
+step 5: Make sure to give a Star , For any issue feel free to contact
 
         
         
