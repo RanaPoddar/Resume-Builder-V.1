@@ -23,7 +23,7 @@ function Form() {
       ];
     
     
-// const [sucess, setSucess] = useState(false);
+const [sucess, setSucess] = useState(false);
 
 const [formData, setFormData] = useState({
     // Profile-Information
@@ -101,7 +101,7 @@ const pageDisplay = () => {
         return <Projects formData={formData} setFormData={setFormData} />
     } else if (page === 4) {
         return <Extra formData={formData} setFormData={setFormData} />
-    }  else if (page === 5) {
+    }  else if (page === 5 || sucess === true) {
         return <Sucess formData={formData} setFormData={setFormData} />
     }
 }
