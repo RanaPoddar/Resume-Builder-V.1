@@ -1,6 +1,5 @@
 import * as React from 'react';
 import Grid from '@mui/material/Grid';
-import Typography from '@mui/material/Typography';
 import TextField from '@mui/material/TextField';
 import EmailIcon from '@mui/icons-material/Email';
 import InputAdornment from '@mui/material/InputAdornment';
