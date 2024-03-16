@@ -7,7 +7,7 @@ import Extra from './Extra';
 import axios from "axios";
 import { saveAs } from "file-saver";
 import Projects from './Projects';
-import HorizontalLinearAlternativeLabelStepper from './Navbar';
+// import HorizontalLinearAlternativeLabelStepper from './Navbar';
 import { Box } from '@mui/system';
 import Sucess from './Sucess';
 
@@ -23,7 +23,8 @@ function Form() {
       ];
     
     
-const [sucess, setSucess] = useState(false);
+// const [sucess, setSucess] = useState(false);
+
 const [formData, setFormData] = useState({
     // Profile-Information
     firstname: "",
